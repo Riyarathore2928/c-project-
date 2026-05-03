@@ -1,5 +1,6 @@
 # c-project-
-This is my c project which i am learning  basics.
+This is my c project where i am learning  basics.
+Topic :  Functions, Area calculations
 # include<stdio.h>
 # include<math.h>
 
